@@ -1,3 +1,4 @@
+import profileImage from "../assets/shaik_janu.png";
 export const personalDetails = {
   name: "Shaik Janu",
   title: ".NET Full Stack Developer & React Engineer",
@@ -6,7 +7,7 @@ export const personalDetails = {
   email: "shaikjanu417@gmail.com",
   phone: "+91 9154325471",
   status: "Available for Opportunities",
-  avatar: `${import.meta.env.BASE_URL}shaik_janu.png`,
+  avatar: profileImage,
   summary: ".NET Full Stack Developer with 3.6+ years of experience building scalable web applications using ASP.NET Core, Web API, SQL Server, React JS, and Azure fundamentals. Expertise in REST API development, JWT security, SQL query tuning, and modern React/TypeScript frontend interfaces.",
   taglines: [
     "Building scalable full-stack web applications",
