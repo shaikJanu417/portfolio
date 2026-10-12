@@ -1,4 +1,4 @@
-import profileImage from "../assets/shaik_janu.png";
+import profileImage from "../assets/shaik_janu.jpg";
 export const personalDetails = {
   name: "Shaik Janu",
   title: ".NET Full Stack Developer & React Engineer",
