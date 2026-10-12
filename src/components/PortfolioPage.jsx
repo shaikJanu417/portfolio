@@ -145,9 +145,7 @@ function Hero() {
       <div className="hero-copy">
         <div className="label load">Hello, I&apos;m</div>
         <h1 className="load">{personalDetails.name}.</h1>
-        <h2 className="load">
-          .NET Full Stack Developer.<i aria-hidden="true" />
-        </h2>
+        <h2 className="load">.NET Full Stack Developer.</h2>
         <h3 className="load">AI Enthusiast. Software Engineer.</h3>
         <p className="load">
           I build scalable web applications, powerful APIs, and intelligent digital
